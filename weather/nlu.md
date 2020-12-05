@@ -203,3 +203,7 @@
 - What's the forecast?
 - What's the weather like today?
 - Will the weather keep up?
+- Todays Weather?
+- Rain expected?
+- How is the temperature?
+- Will snowfall happen today
