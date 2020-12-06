@@ -15,6 +15,8 @@
 - Networking
 - Cyber Security
 - Blockchain
+- C#
+-Augmented Reality
 
 
 # intent:Management_Courses <!--name of the differnet Management Studies courses.-->
@@ -30,6 +32,8 @@
 - Product Management
 - Project Management
 - Policy Making 
+- Entrepreneur
+
 
 
 # intent:Literature_Courses <!--name of the differnet Literature courses.-->
@@ -40,3 +44,4 @@
 - Hindi Literature
 - Sanskrit Literature
 - German Literature
+
